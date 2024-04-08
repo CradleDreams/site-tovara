@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+html {
+    background: #f8f8f8;
+}
+div {
+    background: #eaeaea;
+}
+.hat_text {
+    position: absolute;
+    right: 300px;
+    top: 55px;
+    color: white;
+}
+.hat {
+    background: linear-gradient(to right,#cb11ab 0,#481173 100%);
+    width: 100%;
+    height: 150px;
+}
+a {
+    font-size: 18px;
+    font-weight: normal;
+}
+.text {
+    margin: 0 30px 0 30px;
+}
+li {
+    font-size: 18px;
+    font-weight: normal;
+}
+.photo2 {
+    position: absolute;
+    top: 1040px;
+    right: 50px;
+    width: 250px;
+    height: 400px;
+}
+h1,h2 {
+    font-style: italic;
+}
+lh {
+    display: block;
+    margin: 10px;
+}
